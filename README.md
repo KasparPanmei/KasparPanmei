@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **kasparpanmei02@gmail.com** For Collaboration/Project or A
 
 ## 🔗 I am a Coding Instructor @codingal 😊😊
 
-[![Kaspar_Panmei_Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/kaspar_panmei/) [![Kaspar_Panmei_Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/kasparpanmei.04/) 
+[![Kaspar_Panmei_Instagram](https://img.shields.io/badge/Instagram-Kaspar%20Panmei-pink?logo=instagram&logoColor=white)](https://www.instagram.com/kaspar_panmei/) [![Kaspar_Panmei_Facebook](https://img.shields.io/badge/Facebook-Kaspar%20Panmei-blue?logo=facebook&logoColor=white)](https://www.facebook.com/kasparpanmei.04/) 
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
@@ -23,7 +23,7 @@ Email Me 👉 ✉️ **kasparpanmei02@gmail.com** For Collaboration/Project or A
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kasparpanmei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 💻 Tech Stack:
